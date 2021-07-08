@@ -54,7 +54,7 @@ id = "UA-162817887-1"
 [languages]
 [languages.en]
 title = "Tanzu Glossary"
-description = "This study guide aims to help learners prepare for the Certified Kubernetes Administrator(CKA) exam."
+description = "This page is a glossary of the Tanzu terms"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
@@ -104,7 +104,7 @@ archived_version = false
 url_latest_version = "https://modernappsninja.github.io/tanzuglossary_tg7721"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/ModernAppsNinja/ckastudyguide_sg2378/"
+github_repo = "https://github.com/ModernAppsNinja/tanzuglossary_tg7721/"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
 github_project_repo = "https://github.com/ModernAppsNinja/modernappsninja.github.io"
 # The branch that will be referenced in the edit this page and create child page links
