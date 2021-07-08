@@ -7,7 +7,7 @@ menu:
     weight: 20
 ---
 
-### About This ModernApps Ninja Guide
+### About This ModernApps Guide
 
 This page provides a glossary of a number Tanzu related terms and links to more resources where applicable.
 
@@ -17,7 +17,7 @@ This page provides a glossary of a number Tanzu related terms and links to more 
  * [Tanzu Build Service ](https://tanzu.vmware.com/build-service)– Build containers from source code for Kubernetes
  * [Tanzu Application Catalog](https://tanzu.vmware.com/application-catalog) – Curated container catalog
  * [Tanzu Data Services](https://tanzu.vmware.com/data-services) – Cloud native data and messaging including [GemFire](https://tanzu.vmware.com/gemfire), [RabbitMQ](https://tanzu.vmware.com/rabbitmq), [SQL](https://tanzu.vmware.com/sql) and [Greenplum](https://tanzu.vmware.com/greenplum)
- * [Tanzu Kubernetes Gris](https://tanzu.vmware.com/kubernetes-grid) – Enterprise Ready Kubernetes runtime
+ * [Tanzu Kubernetes Grid](https://tanzu.vmware.com/kubernetes-grid) – Enterprise Ready Kubernetes runtime
  * [Tanzu Mission Control](https://tanzu.vmware.com/mission-control) – Centralized cluster management
  * [Tanzu Observability](https://tanzu.vmware.com/observability) – Enterprise observability for multi-cloud environments
  * [Tanzu Service Mesh](https://tanzu.vmware.com/service-mesh) – Enterprise-class service mesh
@@ -42,7 +42,7 @@ This page provides a glossary of a number Tanzu related terms and links to more 
 
 ### vSphere with Tanzu
 
-[**vSphere with Tanzu**](https://docs.vmware.com/en/VMware-vSphere/7.0/vmware-vsphere-with-tanzu/GUID-152BE7D2-E227-4DAA-B527-557B564D9718.html) - at a high level is the ability to provide a platform for running Kubernetes workloads natively on the ESXi hosts, side by side with virtual machines. This feature within vCenter is called Workload Management. 
+[**vSphere with Tanzu**](https://docs.vmware.com/en/VMware-vSphere/7.0/vmware-vsphere-with-tanzu/GUID-152BE7D2-E227-4DAA-B527-557B564D9718.html) - at a high level is a feature of vSphere 7 that brings a native Kubernetes API to vSphere and turns it into a platform for running Kubernetes workloads natively in and on the ESXi hosts, side by side with virtual machines. This feature within vCenter is called Workload Management. 
 
 **Tanzu Kubernetes Grid Service** - vSphere with Tanzu introduces the Tanzu Kubernetes Grid Service (TKGS), providing the ability for Tanzu Kubernetes Clusters to be deployed and run natively with vSphere. Managed by the Supervisor Cluster. 
 
