@@ -27,7 +27,7 @@ Portfolio of products and services targeted at developers and platform operators
  
  * [Tanzu Data Services](https://tanzu.vmware.com/data-services) – Portfolio of on-demand caching, messaging, and database software for development teams building modern applications. Products include [GemFire](https://tanzu.vmware.com/gemfire), [RabbitMQ](https://tanzu.vmware.com/rabbitmq), [SQL](https://tanzu.vmware.com/sql) and [Greenplum](https://tanzu.vmware.com/greenplum)
  
- * [Tanzu Kubernetes Grid](https://tanzu.vmware.com/kubernetes-grid) – CNCF-certified, enterprise-ready Kubernetes runtime that streamlines operations across a multi-cloud infrastructure. Offers simplified installation, automated multi-cluster operations, integrated platform service, and open source alignment. [More detail](link)
+ * [Tanzu Kubernetes Grid](https://tanzu.vmware.com/kubernetes-grid) – CNCF-certified, enterprise-ready Kubernetes runtime that streamlines operations across a multi-cloud infrastructure. Offers simplified installation, automated multi-cluster operations, integrated platform service, and open source alignment. [More detail](./tkg/index.html)
  
  * [Tanzu Kubernetes Grid Integrated Edition](https://docs.pivotal.io/tkgi/1-13/index.html) - Formerly known as Enterprise PKS. Production-grade, highly available container runtime that operates on vSphere and public clouds. Built on Kubernetes, BOSH, Operations Manager, VMware NSX-T, and Project Harbor.
  
