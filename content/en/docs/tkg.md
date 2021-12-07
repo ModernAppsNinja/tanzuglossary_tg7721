@@ -3,7 +3,7 @@ title: "Tanzu Kubernetes Grid and Kubernetes Concepts"
 linkTitle: "TKG"
 weight: 100
 description: >-
-     deep dive into Tanzu Kubernetes Grid and Kubernetes Concepts
+     Deep dive into Tanzu Kubernetes Grid and Kubernetes Concepts
 ---
 
 ### About this page
